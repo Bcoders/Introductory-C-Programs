@@ -1,2 +1,2 @@
-# Introductory-C-Programs
-C++ projects for Introductory courses
+# Introductory-C++-Programs
+C++ projects for Introductory course
